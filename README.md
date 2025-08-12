@@ -38,8 +38,9 @@ It addresses the common challenges of stock management — such as overstocking,
    <img width="1280" height="532" alt="image" src="https://github.com/user-attachments/assets/d6b6b4fa-93ae-4c41-ad07-d3a3726850d6" />
 7. **Sales & Purchase Orders Module** – Process customer and supplier orders, update inventory in real-time.
    <img width="1280" height="421" alt="image" src="https://github.com/user-attachments/assets/153ca233-310c-41ee-8830-b018e2d2ff07" />
-9. **Dashboard Module** – Display business insights and trends through interactive charts.
    <img width="1280" height="369" alt="image" src="https://github.com/user-attachments/assets/fef71164-c5d4-4b83-b5ba-d224496b53d3" />
+9. **Dashboard Module** – Display business insights and trends through interactive charts.
+    <img width="1381" height="755" alt="image" src="https://github.com/user-attachments/assets/066358a3-2cd1-4a00-910b-809cc5ad68f4" />
 ---
 
 ## Machine Learning
@@ -70,6 +71,5 @@ The dashboard includes:
 
 
 
-<img width="1381" height="755" alt="image" src="https://github.com/user-attachments/assets/066358a3-2cd1-4a00-910b-809cc5ad68f4" />
 
 
