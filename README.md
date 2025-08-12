@@ -1,7 +1,6 @@
 
 # Inventory Control and Analysis System
 
-##  Overview
 
 The **Inventory Control and Analysis System** is designed to streamline inventory management through a combination of **database management**, **Excel-VBA automation**, **machine learning analytics**, and **Power BI dashboards**.
 It addresses the common challenges of stock management — such as overstocking, stockouts, and inefficient tracking — by providing a **centralized platform** for managing sales, purchases, products, customers, and suppliers.
@@ -39,7 +38,7 @@ It addresses the common challenges of stock management — such as overstocking,
 
 ---
 
-## 📊 Machine Learning Workflow
+## Machine Learning
 
 1. **Data Sources:** Sales, Products, and Customer CSV files.
 2. **Data Preprocessing:** Merging datasets, encoding categorical variables.
